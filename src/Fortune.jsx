@@ -5,16 +5,23 @@ export default function Fortune() {
   const [fortune, setFortune] = useState("");
 
   const fortunes = [
-    "You will learn faster than expected.",
-    "This year brings you new opportunities.",
-    "A project you start will open big doors.",
-    "Someone important will notice your work.",
-    "This year will favor your growth journey.",
-    "Your consistency will reward you.",
-    "Expect a surprise win soon.",
-    "Joy and progress will follow your steps.",
-    "You will write cleaner code than ever.",
-    "Great things are forming for you."
+    "2026 will stress you small 😂",
+    "You'll buy a macbook in 2026",
+    "Your girlfriend will break your heart😢",
+    "You'll land an international gig",
+    "You'll have a lot of bugs😂",
+    "You will get to 1M followers on X",
+    "Expect a surprise win soon",
+    "You'll get cheeated on",
+    "You will be favoured",
+    "Great things are forming for you",
+    "You will be consistent this year",
+    "Money will locate you",
+    "Your favourite celebrity will reply you",
+    "You will travel out of the country",
+    "You will meet someone special",
+    "Your project will go viral",
+    "You will be dragged online",
   ];
 
   const generateFortune = () => {

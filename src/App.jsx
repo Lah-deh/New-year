@@ -96,12 +96,12 @@ function App() {
 
       <div className={`content ${celebrate ? "slide-up" : ""}`}>
 
-        <h1>Happy New Year 2026</h1>
+        <h1 >Happy New Year 2026</h1>
         <p style={{ marginTop: "3%", marginBottom: "3%" }}>
           Wishing you more codes, more wins and more soft life
         </p>
 
-        <button
+        <button className="but"
           onClick={handleCelebrate}
           style={{
             padding: "12px 24px",

@@ -5,16 +5,18 @@ export default function Spin() {
   const [spinning, setSpinning] = useState(false);
 
   const spinOptions = [
-    "Big wins ahead!",
-    "You will write flawless code!",
-    "A surprise gift is coming your way.",
-    "Keep learning, you’re unstoppable!",
-    "Expect a joyful surprise!",
-    "Time to take a break, you earned it!",
-    "Collaboration will bring success.",
-    "Your ideas will shine this year.",
-    "A new opportunity is near!",
-    "Fun and creativity await you!"
+    "Big wins ahead 😍",
+    "You will write flawless code",
+    "A surprise gift is coming your way",
+    "Keep learning, you’re unstoppable",
+    "Expect a joyful surprise",
+    "Time to take a break, you earned it",
+    "Collaboration will bring success",
+    "Your ideas will shine this year",
+    "A new opportunity is near",
+    "Fun and creativity await you",
+    "your next project will be a hit",
+    "Your skin will glow this year",
   ];
 
   const handleSpin = () => {
