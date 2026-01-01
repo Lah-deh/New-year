@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useRef } from "react";
 import Confetti from "react-confetti";
 import "./App.css";
-import Music from '../public/happy-new-year-music-457512.mp3';
+import Music from '/happy-new-year-music-457512.mp3';
 import Spin from './Spin.jsx';
 import Fortune from './Fortune.jsx';
 import Tax from './Tax.jsx';
+import { Helmet } from "react-helmet-async";
 
 function App() {
   const [fireworks, setFireworks] = useState(false);
