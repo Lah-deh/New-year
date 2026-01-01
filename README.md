@@ -1,16 +1,34 @@
-# React + Vite
+# New Year 2026 - Fun React Mini App 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A  New Year website built with React to wish you a happy 2026
 
-Currently, two official plugins are available:
+It comes with:
+- A 2026 fortune card
+- A resolution spin wheel
+- A mini income tax checker
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ## Live Demo
 
-## React Compiler
+🔗 https://new-year-kappa-sandy.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  ## Features
+  ### 1. 2026 Fortune Card
+- Enter your name and get a fun, positive fortune for 2026.
+- Random messages so it feels a little different each time you click **Reveal fortune**.
 
-## Expanding the ESLint configuration
+  ### 2. Spin 2026 Wheel
+- Click **Spin** to get a random New Year resolution.
+- Perfect for when you know you want to grow this year but don’t know where to start.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ### 3. Income Tax Calculator 2026
+- Enter your annual income and see an estimated tax and take‑home for the year.
+- Just a light, fun calculator to give you a quick idea (its not a financial advice)
+
+  ## Tech Stack
+- React
+- Vite
+- JavaScript 
+- CSS 
+- Deployed on Vercel
+
+  
