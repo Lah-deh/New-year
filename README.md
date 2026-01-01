@@ -26,7 +26,6 @@ It comes with:
 - Just a light, fun calculator to give you a quick idea – not financial advice. 🙂
 
 ## Tech Stack
-
 - React
 - Vite
 - JavaScript 
