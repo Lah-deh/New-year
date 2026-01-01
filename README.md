@@ -7,29 +7,28 @@ It comes with:
 - A resolution spin wheel
 - A mini income tax checker
 
-## Live Demo
+  ## Live Demo
 
 🔗 https://new-year-kappa-sandy.vercel.app/
 
-## Features
-
-### 1. 2026 Fortune Card
+  ## Features
+  ### 1. 2026 Fortune Card
 - Enter your name and get a fun, positive fortune for 2026.
 - Random messages so it feels a little different each time you click **Reveal fortune**.
 
-### 2. Spin 2026 Wheel
+  ### 2. Spin 2026 Wheel
 - Click **Spin** to get a random New Year resolution.
 - Perfect for when you know you want to grow this year but don’t know where to start.
 
-### 3. Income Tax Calculator 2026
+  ### 3. Income Tax Calculator 2026
 - Enter your annual income and see an estimated tax and take‑home for the year.
-- Just a light, fun calculator to give you a quick idea – not financial advice. 🙂
+- Just a light, fun calculator to give you a quick idea (its not a financial advice)
 
-## Tech Stack
+  ## Tech Stack
 - React
 - Vite
 - JavaScript 
 - CSS 
 - Deployed on Vercel
 
-
+  
