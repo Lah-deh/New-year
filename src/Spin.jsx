@@ -12,7 +12,7 @@ export default function Spin() {
     "Time to take a break, you earned it",
     "Collaboration will bring success",
     "Your ideas will shine this year",
-    "A new opportunity is near",
+    "A big opportunity is coming 😘",
     "your next project will be a hit",
     "Your skin will glow this year",
     "You will find love soon",
